@@ -1,4 +1,4 @@
-[![MasterHead](https://c0.wallpaperflare.com/preview/672/984/942/laptop-computer-keyboard-technology.jpg)
+![MasterHead](https://c0.wallpaperflare.com/preview/672/984/942/laptop-computer-keyboard-technology.jpg)
 
 <h1 align="center">Hi 👋, I'm Hariom Nathani</h1>
 <h3 align="center">A passionate software developer from India</h3>
