@@ -18,9 +18,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:hariomnathani551@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariom-nathani-64b8a5202)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white)](https://instagram.com/nathani_hariom)
-[![leetcode](https://img.shields.io/badge/-leetcode-FFFF00?&logo=leetcode&logoColor=white)]([https://www.codechef.com/users/hariom_811](https://www.leetcode.com/hariom_nathani))
+[![Leetcode](https://img.shields.io/badge/-Leetcode-36454F?&logo=Leetcode&logoColor=white)]([https://www.codechef.com/users/hariom_811](https://www.leetcode.com/hariom_nathani))
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/hariom_811)
-[![geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-008000?&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/hariomnathani551)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-008000?&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/hariomnathani551)
 ---
 
 
