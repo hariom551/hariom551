@@ -5,8 +5,10 @@
 
 
 ## 💫 About Me:
-🎓 Pre-final Year Student Pursuing Bachelors Degree in Information Technology. <br>
+🎓 final Year Student Pursuing Bachelors Degree in Information Technology. <br>
 🖥  I am proficient in C++, have good knowledge of OOPs concepts, SQL, and Python(core).
+I am skilled in both front-end and back-end development.
+
 
 
 
